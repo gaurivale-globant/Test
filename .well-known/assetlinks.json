@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.globant.appindexingdemo",
+    "sha256_cert_fingerprints":
+    ["04:CA:20:13:D0:89:35:D8:CB:9F:2E:1D:83:15:17:21:69:A2:C6:9B:A4:82:38:4C:BB:F8:24:29:0D:4A:C6:0B"]
+  }
+}]
